@@ -2,7 +2,7 @@
 
 Streamlit app built for **MSBA 325 - Interactive Visualizations with Streamlit**, American University of Beirut.
 
-**Live app:** PASTE_YOUR_STREAMLIT_LINK_HERE
+**Live app:** [PASTE_YOUR_STREAMLIT_LINK_HERE](https://msba325-lebanon-transport-bkjgjzbhadfdsxee34xzew.streamlit.app/)
 
 ## What it does
 
